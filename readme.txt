@@ -1,1 +1,2 @@
-this is a text file 
+This repo contains the code snippet used in Neural network trainings.
+
